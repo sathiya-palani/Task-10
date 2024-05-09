@@ -1,0 +1,15 @@
+#root{
+    text-align: center;
+    justify-content:center ;
+    margin-top: 20%;
+    display: flex;
+
+}
+body{ 
+     font-size: xx-large;
+     background-image: url(https://t4.ftcdn.net/jpg/06/29/58/15/360_F_629581559_PN2h3RdcqDU8J8z1XMuy2fPa7MczPE4t.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
